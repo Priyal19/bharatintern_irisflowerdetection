@@ -1,2 +1,2 @@
-# bharatintern_irisflowerdetection
+# bharatintern_irisflowerclassification
 Task-1
